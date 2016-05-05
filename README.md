@@ -1,9 +1,13 @@
 # About
 
-This repo contains information about [ISTQB certification](http://www.istqb.org)
+This repo contains information about quality assurance and testing.
+
+## [ISTQB certification](http://www.istqb.org)
+
 
 ### Mindmaps
 - [Foundation] (mindmaps/foundation)
+- [Intermediate] (mindmaps/intermediate)
 - [Test Automation] (mindmaps/test_automation)
 
 ### TODO
