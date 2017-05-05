@@ -13,7 +13,7 @@ This repo contains information about quality assurance and testing.
 
 ### TODO
 - [ ] add foundation(certified tester) mindmap
-- [ ] add technical test analyst mindmap
+- [x] add technical test analyst mindmap
 - [ ] finish and updated test automation mindmap
 
 ### ISTQB references
