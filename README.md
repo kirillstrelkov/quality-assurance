@@ -23,7 +23,9 @@ This repo contains information about quality assurance, testing and processes.
 ### ISTQB references
 
 [ISTQB certification](http://www.istqb.org)
+
 [ISTQB Summaries, Syllabus, Sample exams, Books](http://www.istqb.org/downloads.html)
+
 [ASTQB Syllabus, Sample exams and more](https://www.astqb.org/get-certified/istqb-syllabi-the-istqb-software-tester-certification-body-of-knowledge/)
 
 [Glossary](http://astqb.org/glossary/)
