@@ -28,4 +28,4 @@ This repo contains information about quality assurance, testing and processes.
 
 [ASTQB Syllabus, Sample exams and more](https://www.astqb.org/get-certified/istqb-syllabi-the-istqb-software-tester-certification-body-of-knowledge/)
 
-[Glossary](http://astqb.org/glossary/)
+[ASTQB Glossary](http://astqb.org/glossary/)
